@@ -19,7 +19,7 @@ This project does not require a dataset. It generates reports based on the curre
 # Project Structure
 
 ### database_operations.py
-1.system_health_check.sh
+1. system_health_check.sh
 
 Main shell script that checks:
 
