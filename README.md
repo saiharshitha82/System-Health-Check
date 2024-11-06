@@ -19,7 +19,7 @@ This project does not require a dataset. It generates reports based on the curre
 # Project Structure
 
 ### database_operations.py
-system_health_check.sh
+##### system_health_check.sh
 
   Main shell script that checks:
 
@@ -29,11 +29,11 @@ system_health_check.sh
 
 PostgreSQL service status
 
-Outputs a report in system_health_report.txt
+##### Outputs a report in system_health_report.txt
 
-system_health_report.txt
+##### system_health_report.txt
 
-The generated system health report with details about the system’s status for each check.
+##### The generated system health report with details about the system’s status for each check.
 
 
 # Credits
