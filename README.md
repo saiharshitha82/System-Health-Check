@@ -21,11 +21,11 @@ This project does not require a dataset. It generates reports based on the curre
 ### database_operations.py
 1. system_health_check.sh
 
-Main shell script that checks:
+  Main shell script that checks:
 
-Disk space usage
+  Disk space usage
 
-CPU load
+  CPU load
 
 PostgreSQL service status
 
